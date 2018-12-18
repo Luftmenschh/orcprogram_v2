@@ -17,8 +17,8 @@ import urllib
 
 
 # reads in the refrigerant data
-df = pd.read_csv('https://github.com/ndaly06/orcprogram/blob/master/refrigerant_data.csv?raw=true')
-# df = pd.read_csv('data/refrigerant_data.csv')
+# df = pd.read_csv('https://github.com/ndaly06/orcprogram/blob/master/refrigerant_data.csv?raw=true')
+df = pd.read_csv('data/refrigerant_data.csv')
 df2 = df[['REFRIGERANT', 'T_1_K', 'T_3_K', 'H_1', 'H_2_ISENTROPIC', 'H_3', 'H_4_ISENTROPIC']]
 df2 = df2.round(2)
 
