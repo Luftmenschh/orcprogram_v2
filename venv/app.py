@@ -76,7 +76,7 @@ app.layout = html.Div(children=[
                         # 
                         drc.NamedDropdown(
                             name='Organic Rankine Cycle Configuration',
-                            id='dropdown-select-dataset',
+                            id='configuration-dropdown',
                             placeholder='Subcritical',
                             disabled=True,
                         ),
@@ -84,7 +84,7 @@ app.layout = html.Div(children=[
 #                        # Heat Source dropdown that is fixed
                         drc.NamedDropdown(
                             name='Heat Source',
-                            id='dropdown-select-dataset',
+                            id='heat-source-dropdown',
                             placeholder='Geothermal Water',
                             disabled=True, 
                         ),
