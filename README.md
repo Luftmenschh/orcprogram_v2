@@ -8,7 +8,7 @@ Try out the [demo app here](https://orcsimulator.herokuapp.com/).
 
 ## Getting Started
 
-### Using the demo
+### Using the app
 
 To get started, select a footage you want to view, and choose the display mode (with or without bounding boxes). Then, you can start playing the video, and the visualization will be displayed depending on the current time.
 
