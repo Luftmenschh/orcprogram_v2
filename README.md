@@ -56,7 +56,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Nial** - *Initial Work* - [@ndaly06](https://github.com/ndaly06)
+* **Nial Daly** - *Initial Work* - [@ndaly06](https://github.com/ndaly06)
 
 ## License
 
