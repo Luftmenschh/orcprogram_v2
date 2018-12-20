@@ -1,7 +1,7 @@
 # ORC Simulator
 
 
-Try out the [demo app here](https://dash-object-detection.plot.ly/).
+Try out the [demo app here](https://orcsimulator.herokuapp.com/).
 
 ![Animated1](images/Animated1.gif)
 
