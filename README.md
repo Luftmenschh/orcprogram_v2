@@ -47,7 +47,8 @@ python3 app.py
 
 * [Dash](https://dash.plot.ly/) - Main server and interactive components
 * [Plotly Python](https://plot.ly/python/) - Used to create the interactive plots
-* [OpenCV](https://docs.opencv.org/) - Create the video with bounding boxes
+* [Flask](http://flask.pocoo.org) - Used to create the web app
+* [CoolProp](http://www.coolprop.org) - Used to provide the refrigerant properties
 
 ## Contributing
 
